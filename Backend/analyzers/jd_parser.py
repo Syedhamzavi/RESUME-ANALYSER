@@ -105,7 +105,7 @@ def extract_education_from_text(text: str) -> List[Dict]:
 
 
 def extract_job_title(text: str) -> str:
-    """Extract the job title, assuming it's one of the first few lines."""
+
 
     lines = [line.strip() for line in text.split('\n') if line.strip()][:3]
     
