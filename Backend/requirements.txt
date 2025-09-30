@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-docx
+PyPDF2
+pdfplumber
+Flask==2.3.2
+flask-cors==4.0.0
+thefuzz
+python-Levenshtein
+scipy
